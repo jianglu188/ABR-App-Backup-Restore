@@ -1,5 +1,5 @@
 # ABR-App-Backup-Restore
-![ABR App Backup Restore](https://github.com/samanyougarg/Currency_Converter/blob/master/screenshots.png)
+![ABR App Backup Restore](https://github.com/samanyougarg/ABR-App-Backup-Restore/blob/master/screenshots.png)
 
 
 ABR App Backup & Restore is a fully open-source app that can Backup & Restore apk of apps to save phone space. Backup & Restore multi-versions to avoid unnecessary updates. Backup & Restore your apps for security by making a copy. Transfer & Share files between devices.
