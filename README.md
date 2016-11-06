@@ -7,18 +7,18 @@ ABR App Backup & Restore is a fully open-source app that can Backup & Restore ap
 * Uninstall, share, download multiple apks
 * Download apk files via your desktop browser.
 
-What you can do with App Backup & Restore
+**What you can do with App Backup & Restore**
 * Backup and Restore your installed apps
 * Extract & Retrieve apk files of apps and export them as duplicates
 * Downgrade app versions if you dislike updated one
 * Manage apps
 * Recover apps after factor reset or in new a new device
 
-Transfer & Share in Seconds
+**Transfer & Share in Seconds**
 * App transfer & share
 * APK transfer & share
 
-Features 
+**Features**
 * Backup & Restore to phone memory in default
 * Backup & Restore to SD card
 * Send backups by Email or other apps
